@@ -1,0 +1,30 @@
+{
+  "parent": "index.json",
+  "context": {
+    "market": "international"
+  },
+  "sections": {
+    "6a3bb789-ce10-45f5-ae67-e2063ef8c76b": {
+      "settings": {
+        "image": "shopify:\/\/shop_images\/eco360_hero_banner_bg_1x_4206d698-9eea-461d-9414-6b02ad2d57eb.webp"
+      },
+      "blocks": {
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-0": {
+          "settings": {
+            "heading": "Bio Degradable Bags"
+          }
+        },
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-1": {
+          "settings": {
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-2": {
+          "settings": {
+            "button_label_1": "Shop Bags"
+          }
+        }
+      }
+    }
+  }
+}

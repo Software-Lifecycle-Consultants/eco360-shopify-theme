@@ -1,0 +1,125 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "022039f9-e478-4b66-ba1f-e548acc634e4": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19112462221610__022039f9-e478-4b66-ba1f-e548acc634e4-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--19112462221610__022039f9-e478-4b66-ba1f-e548acc634e4-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--19112462221610__022039f9-e478-4b66-ba1f-e548acc634e4-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "0ac7ee8f-66e4-4fa5-affd-e936a145a7ef": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19112462221610__022039f9-e478-4b66-ba1f-e548acc634e4-featured_collection-1",
+        "template--19112462221610__022039f9-e478-4b66-ba1f-e548acc634e4-featured_collection-2",
+        "template--19112462221610__022039f9-e478-4b66-ba1f-e548acc634e4-featured_collection-3",
+        "0ac7ee8f-66e4-4fa5-affd-e936a145a7ef"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "inverse",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 20,
+        "columns_desktop": 4,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "be5c5d2b-68ee-46b6-be83-a7d03da2b31a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19112462221610__be5c5d2b-68ee-46b6-be83-a7d03da2b31a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--19112462221610__be5c5d2b-68ee-46b6-be83-a7d03da2b31a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--19112462221610__be5c5d2b-68ee-46b6-be83-a7d03da2b31a-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19112462221610__be5c5d2b-68ee-46b6-be83-a7d03da2b31a-heading-1",
+        "template--19112462221610__be5c5d2b-68ee-46b6-be83-a7d03da2b31a-text-1",
+        "template--19112462221610__be5c5d2b-68ee-46b6-be83-a7d03da2b31a-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "022039f9-e478-4b66-ba1f-e548acc634e4",
+    "product-grid",
+    "be5c5d2b-68ee-46b6-be83-a7d03da2b31a"
+  ]
+}
